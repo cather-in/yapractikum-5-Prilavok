@@ -3,11 +3,13 @@
 
 Требования к бэкенду приложения: https://code.s3.yandex.net/qa/files/backend_requirements.pdf
 
-— Проанализировала требования к новой функциональности Яндекс.Прилавка
+— Проанализировала требования к новой функциональности Яндекс.Прилавка.
 
-— Спроектировала тесты в виде чек-листа
+— Спроектировала тесты в виде чек-листа.
 
-— Протестировала API через Postman и завела баг-репорты
+— Протестировала API через Postman и завела баг-репорты.
+
+— Работала с Apidoc/Swagger, Postman, REST API, JSON/XML, HTTP запросами, анализом логов.
 
 Ссылка на чек-лист: https://docs.google.com/spreadsheets/d/1aoBj_yLZ128WOewQGLejV4K_vrS5Olv-uobIeqh60eY/edit?usp=sharing
 
